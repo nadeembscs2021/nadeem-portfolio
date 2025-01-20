@@ -58,14 +58,14 @@ export const skills = [
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
-        name: "tailwind css",
+        name: "Tailwind CSS",
         image: "https://www.svgrepo.com/show/333609/tailwind-css.svg",
       },
-      // {
-      //   name: "Material UI",
-      //   image:
-      //     "https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png",
-      // },
+      {
+        name: "Material UI",
+        image:
+          "https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png",
+      },
     ],
   },
   {
@@ -87,17 +87,17 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
       {
-        name: "solidity",
+        name: "Solidity",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg",
       },
       {
-        name: "hardhat",
+        name: "Hardhat",
         image:
           "https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png",
       },
       {
-        name: "ethers",
+        name: " Ethers.Js",
         image:
           "https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png",
       },
@@ -115,7 +115,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000",
       },
 
       {
