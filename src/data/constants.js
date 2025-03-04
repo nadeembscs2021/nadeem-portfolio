@@ -9,7 +9,7 @@ export const Bio = {
     "I am a dedicated Full Stack Developer specializing in the MERN stack, with an intermediate level of expertise. In addition to my proficiency in the MERN stack, I have a foundational understanding of AI technology, which I am keen to integrate into web development projects. I am passionate about creating interactive, scalable, and user-friendly web applications and am continuously honing my skills through hands-on project development.",
   github: "https://github.com/nadeembscs2021",
   resume:
-    "https://drive.google.com/file/d/1R17782r200cvOgckTXU-6r3sFxFQ_unX/view?usp=drive_link",
+    "https://drive.google.com/file/d/19DF9zpYDeBuV20tQY0jfrLdFWosBUoS6/view?usp=drive_link",
   linkedin:
     "https://www.linkedin.com/in/nadeem-khan-529b4326a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://x.com/NadeemKhan_2021?t=ZexRV3G3pyLRBDQ13W9UUg&s=09",
