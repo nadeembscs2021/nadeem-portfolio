@@ -1,6 +1,6 @@
 import React from "react";
 // import HeroBgAnimation from "../HeroBgAnimation";
-import HeroImg from "../assets/Profile.jpg";
+import HeroImg from "../assets/Profile_.png";
 import Typewriter from "typewriter-effect";
 import { Bio } from "../data/constants";
 const HeroSection = () => {

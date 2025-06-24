@@ -1,4 +1,4 @@
-import votingImage from "./CMS.png";
+import votingImage from "./CMS-App.png";
 import portfolio from "./mini-project.png";
 import proshop from "./portfolio-project.png";
 
