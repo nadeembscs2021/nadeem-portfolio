@@ -158,7 +158,7 @@ export const education = [
     img: "https://cms.uom.edu.pk/web/image/website/1/logo/University%20of%20Malakand?unique=ce6444b",
     school: "University of Malakand (UOM)",
     date: "Sep 2021 - Sep 2025",
-    grade: "3.44 CGPA",
+    grade: "3.50 CGPA",
     desc: "I am currently engaged in my studies at Govt Postgraduate College Timergara, where I am building a robust foundation in computer science principles, programming languages, and problem-solving skills.",
     degree: "Bachelor of Science in Computer Science",
   },
