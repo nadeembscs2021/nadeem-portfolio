@@ -9,7 +9,7 @@ export const Bio = {
     "I’m a dedicated and an enthusiastic beginner web developer with a intermediate foundation in the MERN Stack and a growing skill set in full-stack development. Passionate about learning, problem-solving and real-world problems through code and love the process of turning ideas into fully functional web solutions. With a mindset focused on continuous learning, I'm always exploring new technologies and improving my skills through hands-on experience. I’m now looking to join a creative and collaborative development team where I can contribute meaningfully, grow professionally, and work on impactful projects that make a difference.",
   github: "https://github.com/nadeembscs2021",
   resume:
-    "https://drive.google.com/file/d/1bj6XYLj5XoswwQT_xKNCD2Dj9j8WLT3R/view?usp=drive_link",
+    "https://drive.google.com/file/d/16HAJiUp2wrhnmhU8PRtDQvA13rfoosCT/view?usp=drive_link",
   linkedin:
     "https://www.linkedin.com/in/nadeem-khan-529b4326a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://x.com/NadeemKhan_2021?t=ZexRV3G3pyLRBDQ13W9UUg&s=09",
