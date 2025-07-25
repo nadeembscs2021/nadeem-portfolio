@@ -1,12 +1,12 @@
 import votingImage from "./CMS-App.png";
-import portfolio from "./mini-project.png";
-import proshop from "./portfolio-project.png";
+import proshop from "./Garments_Store.png";
+import portfolio from "./portfolio-project.png";
 
 export const Bio = {
   name: "Nadeem Ahmad",
   roles: ["Programmer", "Mern Stack Developer", "Designer"],
   description:
-    "I am a dedicated Full Stack Developer specializing in the MERN stack, with an intermediate level of expertise. In addition to my proficiency in the MERN stack, I have a foundational understanding of AI technology, which I am keen to integrate into web development projects. I am passionate about creating interactive, scalable, and user-friendly web applications and am continuously honing my skills through hands-on project development.",
+    "I’m a dedicated and an enthusiastic beginner web developer with a intermediate foundation in the MERN Stack and a growing skill set in full-stack development. Passionate about learning, problem-solving and real-world problems through code and love the process of turning ideas into fully functional web solutions. With a mindset focused on continuous learning, I'm always exploring new technologies and improving my skills through hands-on experience. I’m now looking to join a creative and collaborative development team where I can contribute meaningfully, grow professionally, and work on impactful projects that make a difference.",
   github: "https://github.com/nadeembscs2021",
   resume:
     "https://drive.google.com/file/d/19DF9zpYDeBuV20tQY0jfrLdFWosBUoS6/view?usp=drive_link",
@@ -158,7 +158,7 @@ export const education = [
     img: "https://cms.uom.edu.pk/web/image/website/1/logo/University%20of%20Malakand?unique=ce6444b",
     school: "University of Malakand (UOM)",
     date: "Sep 2021 - Sep 2025",
-    grade: "3.50 CGPA",
+    grade: "3.49 CGPA",
     desc: "I am currently engaged in my studies at Govt Postgraduate College Timergara, where I am building a robust foundation in computer science principles, programming languages, and problem-solving skills.",
     degree: "Bachelor of Science in Computer Science",
   },
@@ -176,7 +176,7 @@ export const education = [
     img: "https://cdn.brandfetch.io/idajlo2Nzf/w/400/h/400/theme/dark/icon.jpeg?c=1bfwsmEH20zzEfSNTed",
     school: "Government High School (TKS)",
     date: "Apr 2016 - Apr 2018",
-    grade: "85%",
+    grade: "80%",
     desc: "I have successfully finished my Matriculation from our village Government High School Takora Sheikhan, I established a solid academic base that has been instrumental in supporting my subsequent educational endeavors.",
     degree: "Matric in Science",
   },
@@ -186,7 +186,7 @@ export const projects = [
   {
     id: 9,
     title: "CMS Web App",
-    date: "Oct 2024 - still in progress",
+    date: "Oct 2024 - July 2025",
     description:
       "This project, built with the MERN stack, offers a secure and efficient platform for managing academic and administrative tasks. Students and parents access real-time updates on performance and fees, while teachers handle schedules and grading seamlessly. Administrators benefit from dynamic dashboards, reporting, and centralized control, providing a scalable solution for educational institutions.",
     image: `${votingImage}`,
@@ -198,13 +198,13 @@ export const projects = [
   },
   {
     id: 0,
-    title: "React Portfolio",
-    date: "Dec 2024 - Jan 2025",
+    title: "Online Garments Store (Web App)",
+    date: "May - 2025",
     description:
-      "A dynamic and responsive portfolio built with React.js, showcasing projects, skills, and achievements. Features smooth navigation, modern UI/UX design, and reusable components, offering an interactive user experience.",
+      "Online Garments Store is a full-stack web application built using HTML, CSS, JavaScript, Node.js, Express.js, andSQL. It features a user-friendly interface for customers and a separate admin panel for managing products, users, and orders. The system supports user authentication, dynamic routing, shopping cart, and order tracking with full backend and database integration.",
     image: `${proshop}`,
 
-    tags: ["React Js", "Tailwind CSS", "Material UI"],
+    tags: ["HTML", "CSS", "JavaScript", "Node Js", "Express Js", "SQL"],
     category: "web app",
     // "paste github portfolio project repository link below",
     github: "https://github.com/nadeembscs2021/nadeem-portfolio",
@@ -212,12 +212,12 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Mini Portfolio",
+    title: "React.js Portfolio",
     date: "Sep 2024 - Oct 2024",
     description:
-      "A minimalist portfolio crafted with HTML, CSS, and JavaScript, showcasing projects with sleek design and responsive layouts.",
+      "A dynamic and responsive portfolio built with React.js, showcasing projects, skills, and achievements. Features smooth navigation, modern UI/UX design, and reusable components, offering an interactive user experience.",
     image: `${portfolio}`,
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["React Js", "Tailwind CSS", "Material UI"],
     category: "web app",
     // "paste github Mini Portfolio project repository link below",
     github: "https://github.com/nadeembscs2021/Nadeem_Portfolio",
