@@ -10,23 +10,33 @@ import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
-
 const App = () => {
   const [openModal, setOpenModal] = useState({ state: false, Projects: null });
   return (
     <>
       <Navbar />
-      {/* body */}
-      <div className=" w-full bg-darkTheme-card_light ">
-        <HeroSection />
+      <div className="w-full bg-darkTheme-card_light">
+        <section id="hero">
+          <HeroSection />
+        </section>
         <Wrapper>
-          <Skills />
-          <Experience />
+          <section id="skills">
+            <Skills />
+          </section>
+          <section id="experience">
+            <Experience />
+          </section>
         </Wrapper>
-        <Projects openModal={openModal} setOpenModal={setOpenModal} />
+        <section id="projects">
+          <Projects openModal={openModal} setOpenModal={setOpenModal} />
+        </section>
         <Wrapper>
-          <Education />
-          <Contact />
+          <section id="education">
+            <Education />
+          </section>
+          <section id="contact">
+            <Contact />
+          </section>
         </Wrapper>
         <Footer />
         {openModal.state && (
