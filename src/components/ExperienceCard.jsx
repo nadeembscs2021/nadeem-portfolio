@@ -10,15 +10,16 @@ const Document = ({ src }) => (
 const ExperienceCard = ({ experience }) => {
   return (
     <>
- 
       {/* card */}
       <div className="group  p-[10px] gap-2 w-[300px] md:w-[650px] md:gap-3 md:py-3 md:px-4 rounded-lg flex flex-col justify-between relative transition-all duration-300 hover:shadow-lg hover:-translate-y-1 border border-[306ee8] overflow-hidden ">
         {/* top */}
-
         <div className="w-full flex gap-3">
           <img
-            src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/07125022/software-house-featured-image.png"
-            alt=""
+            src={
+              experience.img ||
+              "https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/07125022/software-house-featured-image.png"
+            }
+            alt={experience.company}
             className="h-10 md:h-[50px] mt-1 bg-[#000] rounded-lg "
           />
 
@@ -50,7 +51,10 @@ const ExperienceCard = ({ experience }) => {
                 <b>Skills:</b>
                 <div className="flex flex-wrap gap-2">
                   {experience?.skills?.map((skill, index) => (
-                    <div key={index} className=" text-[12px] md:text-[15px] font-normal text-darkTheme-text_secondary">
+                    <div
+                      key={index}
+                      className=" text-[12px] md:text-[15px] font-normal text-darkTheme-text_secondary"
+                    >
                       • {skill}
                     </div>
                   ))}
