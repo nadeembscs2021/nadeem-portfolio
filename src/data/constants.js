@@ -1,5 +1,5 @@
 import votingImage from "./CMS-App.png";
-import proshop from "./Garments_Store.png";
+import proshop from "./Garments-Store.png";
 import portfolio from "./portfolio-project.png";
 
 export const Bio = {
@@ -115,8 +115,7 @@ export const skills = [
       },
       {
         name: "Netlify",
-        image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+        image: "https://www.netlify.com/v3/img/components/logomark.png",
       },
     ],
   },
