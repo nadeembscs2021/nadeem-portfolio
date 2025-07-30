@@ -21,7 +21,8 @@ const Experience = () => {
         </h1>
 
         <p className="mt-3 text-[16px] md:text-[18px] text-center max-w-[600px] text-darkTheme-text_secondary">
-          My work experience as a intermediate MERN Stack developer and working on different projects.
+          My work experience as a intermediate MERN Stack developer and working
+          on different projects.
         </p>
 
         {/* Timeline section */}
@@ -32,9 +33,7 @@ const Experience = () => {
               <TimelineItem key={experience.id}>
                 <TimelineSeparator>
                   <TimelineDot variant="outlined" color="secondary" />
-                  {index !== experiences.length - 1 && (
-                    <TimelineConnector style={{ background: "#854CE6" }} />
-                  )}
+                  <TimelineConnector style={{ background: "#854CE6" }} />
                 </TimelineSeparator>
                 <TimelineContent sx={{ py: "12px", px: 2 }}>
                   <ExperienceCard experience={experience} />
