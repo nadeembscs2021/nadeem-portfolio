@@ -7,7 +7,7 @@ export const Bio = {
   name: "Nadeem Ahmad",
   roles: ["Programmer", "Mern Stack Developer", "Designer"],
   description:
-    "I’m a dedicated and an enthusiastic beginner web developer with a intermediate foundation in the MERN Stack and a growing skill set in full-stack development. Passionate about learning, problem-solving and real-world problems through code and love the process of turning ideas into fully functional web solutions. With a mindset focused on continuous learning, I'm always exploring new technologies and improving my skills through hands-on experience. I’m now looking to join a creative and collaborative development team where I can contribute meaningfully, grow professionally, and work on impactful projects that make a difference.",
+    "Highly motivated and results-oriented Web Developer with a solid foundation in the MERN Stack. Driven by a passion for building scalable, intuitive, and impactful web applications, with a portfolio of academic and personal projects showcasing both technical excellence and collaborative agility. Recognized for a sharp problem-solving mindset, the ability to learn quickly, and thrive under pressure in fast-paced, tech-driven environments. Skilled in writing clean, maintainable code and working seamlessly within agile teams to deliver real-world digital solutions. Open to full-time, freelance, or remote opportunities where I can bring value to innovative development teams, grow alongside industry professionals, and contribute to technology that makes a difference.",
   github: "https://github.com/nadeembscs2021",
   resume:
     "https://drive.google.com/file/d/11jy9gSyn-k2FRE5ex_1EdxdwVIO87YPw/view?usp=sharing",
