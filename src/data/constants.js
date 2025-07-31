@@ -1,6 +1,7 @@
 import votingImage from "./CMS-App.png";
 import proshop from "./Garments-Store.png";
 import portfolio from "./portfolio-project.png";
+import backendImage from "./Backend_Developer.png";
 
 export const Bio = {
   name: "Nadeem Ahmad",
@@ -9,9 +10,8 @@ export const Bio = {
     "I’m a dedicated and an enthusiastic beginner web developer with a intermediate foundation in the MERN Stack and a growing skill set in full-stack development. Passionate about learning, problem-solving and real-world problems through code and love the process of turning ideas into fully functional web solutions. With a mindset focused on continuous learning, I'm always exploring new technologies and improving my skills through hands-on experience. I’m now looking to join a creative and collaborative development team where I can contribute meaningfully, grow professionally, and work on impactful projects that make a difference.",
   github: "https://github.com/nadeembscs2021",
   resume:
-    "https://drive.google.com/file/d/1OJpcHSM1mrIZB9MiumrAOTANVe1jVZpg/view?usp=drive_link",
-  linkedin:
-    "http://www.linkedin.com/in/nadeem-ahmad-529b4326a",
+    "https://drive.google.com/file/d/11jy9gSyn-k2FRE5ex_1EdxdwVIO87YPw/view?usp=sharing",
+  linkedin: "http://www.linkedin.com/in/nadeem-ahmad-529b4326a",
   twitter: "https://x.com/NadeemKhan_2021?t=ZexRV3G3pyLRBDQ13W9UUg&s=09",
   insta: "https://www.instagram.com/nadeembscs2021?igsh=MjQ5aGYxZjFjbmRp",
   facebook:
@@ -58,7 +58,7 @@ export const skills = [
       {
         name: "Next Js",
         image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
     ],
   },
@@ -132,7 +132,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "", // Replace with backend image link
+    img: `${backendImage}`, // Updated with backend image link
     role: "Back-End Developer",
     company: "Self-Learner (Independent Study)",
     date: "2024 – Present",
