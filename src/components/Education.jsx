@@ -20,9 +20,9 @@ const Education = () => {
           Education
         </h1>
         <p className=" text-[16px] md:text-[18px] text-center max-w-[600px] text-darkTheme-text_secondary mt-3 md:m-0">
-        My education has been a journey of self-discovery, growth and it provided me with a strong foundation in computer
-          science and engineering principles. Here is a summary of my education
-          journey. 
+          My education has been a journey of self-discovery, growth and it
+          provided me with a strong foundation in computer science and
+          engineering principles. Here is a summary of my education journey.
         </p>
         {/* TimelineSection */}
         <div className="w-full max-w-[1000px] mt-[10px] flex flex-col items-end justify-center gap-3 sm:items-center">
@@ -34,7 +34,7 @@ const Education = () => {
                 </TimelineContent>
                 <TimelineSeparator>
                   <TimelineDot variant="outlined" color="secondary" />
-                  {index !== experiences.length && (
+                  {index !== education.length - 1 && (
                     <TimelineConnector style={{ background: "#854CE6" }} />
                   )}
                 </TimelineSeparator>
