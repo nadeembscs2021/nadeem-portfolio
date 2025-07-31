@@ -11,7 +11,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1OJpcHSM1mrIZB9MiumrAOTANVe1jVZpg/view?usp=drive_link",
   linkedin:
-    "https://www.linkedin.com/in/nadeem-khan-529b4326a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "http://www.linkedin.com/in/nadeem-ahmad-529b4326a",
   twitter: "https://x.com/NadeemKhan_2021?t=ZexRV3G3pyLRBDQ13W9UUg&s=09",
   insta: "https://www.instagram.com/nadeembscs2021?igsh=MjQ5aGYxZjFjbmRp",
   facebook:
