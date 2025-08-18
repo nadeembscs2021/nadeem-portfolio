@@ -1,4 +1,4 @@
-import votingImage from "./CMS-App.png";
+import votingImage from "./My-fyp-CMS-App.png";
 import proshop from "./Garments-Store.png";
 import portfolio from "./portfolio-project.png";
 import backendImage from "./Backend_Developer.png";
