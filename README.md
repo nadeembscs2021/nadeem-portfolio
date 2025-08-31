@@ -4,7 +4,7 @@
 
 This project is my  **personal portfolio website**, designed and developed with **React.js** and  **Tailwind CSS** .
 
-It serves as a **professional** showcase of my skills, projects, and journey **in software engineering, while also acting as a practical, real-world solution for recruiters, clients, and collaborators to connect with me.
+It serves as a **professional** showcase of my skills, projects, and journey in **software engineering**, while also acting as a practical, real-world solution for recruiters, clients, and collaborators to connect with me.
 
 The portfolio is not just a static page – it’s a **modern, interactive, and fully responsive web application** that reflects my dedication to building high-quality digital experiences.
 
@@ -40,7 +40,7 @@ Showcases my  **technical expertise and toolset** , including:
 * **Other Tools** : Git, GitHub, Netlify, Vercel, VS Code, etc.
 * **Special Focus** : Performance optimization, scalability, and security best practices.
 
-#### **💼 Experience** 
+#### **💼 Experience**
 
 **Highlights my  **real-world software house experience** , where I learned and worked with:**
 
@@ -60,14 +60,11 @@ Details of my  **academic background** , including:
 
 Clear pathways for **recruiters, employers, and collaborators** to connect with me:
 
-* **Email:****[nadeemahmed7793@gmail.com](mailto:nadeemahmed7793@gmail.com)**
-* **Phone:**** +923218385925**
-* **LinkedIn:**
-  **https://www.linkedin.com/in/nadeem-ahmad-529b4326a**
-* **GitHub:**
-  **https://github.com/nadeembscs2021**
-* **Portfolio
-  Live Demo:** **https://nadeemahmad-portfolio.vercel.app/**
+* **Email:** [nadeemahmed7793@gmail.com](mailto:nadeemahmed7793@gmail.com)
+* **Phone:** *+923218385925*
+* **LinkedIn: https://www.linkedin.com/in/nadeem-ahmad-529b4326a**
+* **GitHub: https://github.com/nadeembscs2021**
+* **Portfolio Live Demo:** **https://nadeemahmad-portfolio.vercel.app/**
 
 ---
 
@@ -113,9 +110,3 @@ This portfolio reflects my **dedication, ambition, and vision** as a full-stack 
 It’s built to **impress, connect, and inspire trust** in my abilities to deliver real-world, impactful solutions.
 
 ---
-
-**Live Portfolio:** **https://nadeemahmad-portfolio.vercel.app/**
-
-**Contact Me:** **[nadeemahmed7793@gmail.com](mailto:nadeemahmed7793@gmail.com)**
-
-**Phone: +923218385925**
