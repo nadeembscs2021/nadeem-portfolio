@@ -5,7 +5,7 @@ import backendImage from "./Backend_Developer.png";
 
 export const Bio = {
   name: "Nadeem Ahmad",
-  roles: ["Programmer", "Mern Stack Developer", "Designer"],
+  roles: ["Data Analyst", "Programmer", "Mern Stack Developer"],
   description:
     "Analytical and detail-oriented Data Analytics Intern at Systems Limited Islamabad, passionate about transforming raw data into meaningful business insights and data-driven strategies. Currently building strong expertise in data visualization, SQL, Python, PowerBI, NiFi, Databricks, and ETL workflows, with a focus on applying analytical thinking to real-world business problems. Leveraging a prior background in MERN Stack development, I bring a blend of technical depth and analytical creativity, enabling me to bridge data, systems, and business goals effectively. Recognized for my problem-solving mindset, adaptability, and continuous learning, I am committed to advancing my expertise in data analytics and contributing to impactful data-driven solutions that support smarter decisions and measurable business growth.",
   github: "https://github.com/nadeembscs2021",
