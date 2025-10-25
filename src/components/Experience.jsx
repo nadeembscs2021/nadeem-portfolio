@@ -21,8 +21,7 @@ const Experience = () => {
         </h1>
 
         <p className="mt-3 text-[16px] md:text-[18px] text-center max-w-[600px] text-darkTheme-text_secondary">
-          My work experience as a junior data analyst and MERN Stack developer and working
-          on different projects.
+          My journey as a Junior Data Analyst and MERN Stack developer reflects my commitment to continuous learning, problem-solving, and building practical, real-world solutions.
         </p>
 
         {/* Timeline section */}
