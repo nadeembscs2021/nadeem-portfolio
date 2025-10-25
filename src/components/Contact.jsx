@@ -10,13 +10,13 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        // "service_2obmsj9",
-        "service_9ktvkr4",
-        // "template_gq8djro",
+        // "service_ID",
+        "service_3e6tub5",
+        // "template_ID",
         "template_4qa43we",
         form.current,
-        // "nmzRJakhUyL6UjCHp",
-        "up0RcgUftuaCo181Q"
+        // "Public API Key",
+        "F0eTCd7n9anPr67P4"
       )
       .then(
         (result) => {
