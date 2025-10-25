@@ -7,7 +7,7 @@ export const Bio = {
   name: "Nadeem Ahmad",
   roles: ["Data Analyst", "Programmer", "Mern Stack Developer"],
   description:
-    "Analytical and detail-oriented data enthusiast passionate about turning raw data into actionable insights and business strategies. Building strong expertise in Data Analytics and foundational Data Engineering, I focus on applying analytical thinking to solve real-world problems. With a background in MERN Stack development, I combine technical depth with analytical creativity to bridge data, systems, and business goals. Known for my problem-solving mindset, adaptability, and dedication to continuous learning, I strive to deliver impactful, data-driven solutions that enable smarter decisions and measurable growth.",
+    "Analytical and detail-oriented data enthusiast passionate about turning raw data into actionable insights and business strategies. Building strong expertise in Data Analytics and Data Engineering, I focus on applying analytical thinking to solve real-world problems. Leveraging a prior background in MERN Stack development, I combine technical depth with analytical creativity to bridge data, systems, and business goals. Known for my problem-solving mindset, adaptability, and dedication to continuous learning, I strive to deliver impactful, data-driven solutions that enable smarter decisions and measurable growth.",
   github: "https://github.com/nadeembscs2021",
   resume:
     "https://drive.google.com/file/d/1W4nP_v4RcZXxhQ9-JsJuuGP408pqFMZT/view?usp=drive_link",
