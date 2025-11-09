@@ -10,7 +10,7 @@ export const Bio = {
     "Analytical and detail-oriented data enthusiast passionate about turning raw data into actionable insights and business strategies. Building strong expertise in Data Analytics and Data Engineering, I focus on applying analytical thinking to solve real-world problems. Leveraging a prior background in MERN Stack development, I combine technical depth with analytical creativity to bridge data, systems, and business goals. Known for my problem-solving mindset, adaptability, and dedication to continuous learning, I strive to deliver impactful, data-driven solutions that enable smarter decisions and measurable growth.",
   github: "https://github.com/nadeembscs2021",
   resume:
-    "https://drive.google.com/file/d/1W4nP_v4RcZXxhQ9-JsJuuGP408pqFMZT/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Ejlmd7mp40wpyd3BwqBiHq2FMXpAwwSi/view?usp=drive_link",
   linkedin: "http://www.linkedin.com/in/nadeem-ahmad-529b4326a",
   twitter: "https://x.com/NadeemKhan_2021?t=ZexRV3G3pyLRBDQ13W9UUg&s=09",
   insta: "https://www.instagram.com/nadeembscs2021?igsh=MjQ5aGYxZjFjbmRp",
