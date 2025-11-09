@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../assets/Profile.png";
+import HeroImg from "../assets/My_Profile.png";
 import Typewriter from "typewriter-effect";
 import { Bio } from "../data/constants";
 const HeroSection = () => {
